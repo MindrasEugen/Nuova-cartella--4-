@@ -1,0 +1,1 @@
+console.log("La prima riga di JavaScript!")

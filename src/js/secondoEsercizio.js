@@ -1,0 +1,1 @@
+console.log("E con questa siamo a due mini esercizi")
